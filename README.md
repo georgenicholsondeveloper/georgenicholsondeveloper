@@ -1,7 +1,9 @@
-### Hi there 👋
+<html>
+<body>
+  <h1>Hello THere</h1>
+  </body>
+</html>
 
-<!--
-**georgenicholsondeveloper/georgenicholsondeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
