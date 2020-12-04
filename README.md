@@ -4,7 +4,7 @@
   <h2>Software Engineer</h2>
   <br>
   <p>I am a recently graduated aspiring Software Engineer! I previously studied Games Design and have designed and developed all sorts of games.
-    A majority of what can be found here are my games and test projects I made through Uni. However, as I am persuing a career in Software Development you
+    A majority of what can be found here are my games and test projects I made through Uni. However, as I am pursuing a career in Software Development you
     should see more projects surrounding it here soon!!
     <br><br> Thanks for dropping by! :)
     
